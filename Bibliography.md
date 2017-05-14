@@ -6,7 +6,18 @@
 Some interesting comments also appear on HackerNews [YC_UltrasoundMachineExpensive].
 
 
+## Funded companies
+
+The companies who have received the most funding are Supersonic Imagine (general imaging), Butterfly Network (general imaging ), Delphinus (breast), U-Systems (breast) and Signostics (urology) [ref][Funding Analysis of Diagnostic Ultrasound Companies].
+* Since 2010, 29 diagnostic ultrasound companies have secured external capital funding.
+* There has been a lot of funding activity for companies developing ultrasound solutions for point of care applications, but the deal sizes tend to be smaller (average funding of $4.7M). The most funded are Clarius ($17.5M), Biim Ultrasound ($12M) and  eZono ($10M).
+* The most recent venture-funded new market entrant is Clarius Mobile Health, with total funding to date of $17.5M. __Clarius is funded by  private investors and strategic partners, rather than venture capital__. 
+* The last major exit by a venture - funded diagnostic ultrasound company was in 2013, when Zonare was acquired by Mindray for $102M
+
 ## Bibliography
+
+[Funding Analysis of Diagnostic Ultrasound Companies]: http://signifyresearch.net/wp-content/uploads/2017/05/09.05.2017_V3_Investment-Analysis-of-Ultrasound-Companies.pdf "Funding Analysis of Diagnostic Ultrasound Companies"
+
 
 [YC_UltrasoundMachineExpensive]: https://news.ycombinator.com/item?id=13230741  "(YC) Why Are Ultrasound Machines So Expensive? "
 
@@ -35,4 +46,20 @@ Some interesting comments also appear on HackerNews [YC_UltrasoundMachineExpensi
 [BCG_EM]: https://www.bcg.com/publications/2017/globalization-medical-devices-technology-medtech-may-be-emerging-markets-next-new-thing.aspx "Medtech May Be Emerging Markets’ Next New Thing"
 
 [Emerging_BM]: http://openhardware.metajnl.com/articles/10.5334/joh.4/ "Emerging Business Models for Open Source Hardware"
+
+## Links to sort
+
+http://www.scoop.it/t/business-market-research-report/p/4078833573/2017/05/11/ultrasound-devices-market-supply-demand-industry-research-and-end-user-analysis-to-2023?utm_medium=social&utm_source=twitter
+
+https://twitter.com/ijser_research/status/861173780621799424
+
+http://signifyresearch.net/knowledge-centre/investment-analysis-for-diagnostic-ultrasound-companies/
+
+http://spi-reports.com/product/588318-global+portable+ultrasound+system+market+research+report+forecast+2017+to+2021+%5Bupdated%3A+17-04-2017%5D.html
+
+http://bizpr.us/2017/04/28/portable-ultrasound-equipment-market-growth-trend-price-demand-and-forecasts-to-2025/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Bizprus+%28BizPR.us%29
+
+http://www.sbwire.com/press-releases/portable-ultrasound-equipment/release-796665.htm
+
+http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_24-3-2017-14-26-19?hootPostID=6483d463f28b3c4ee20b0114f765f1b3
 
