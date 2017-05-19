@@ -53,9 +53,9 @@ http://www.scoop.it/t/business-market-research-report/p/4078833573/2017/05/11/ul
 
 https://twitter.com/ijser_research/status/861173780621799424
 
-http://signifyresearch.net/knowledge-centre/investment-analysis-for-diagnostic-ultrasound-companies/
 
-http://spi-reports.com/product/588318-global+portable+ultrasound+system+market+research+report+forecast+2017+to+2021+%5Bupdated%3A+17-04-2017%5D.html
+
+
 
 http://bizpr.us/2017/04/28/portable-ultrasound-equipment-market-growth-trend-price-demand-and-forecasts-to-2025/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+Bizprus+%28BizPR.us%29
 
